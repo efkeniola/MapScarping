@@ -1,0 +1,7 @@
+{
+  "name": "MapScout Pro",
+  "description": "A high-performance business discovery tool that leverages Google Maps grounding to find businesses, contact details, and locations for lead generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
